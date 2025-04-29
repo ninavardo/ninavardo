@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm NINA 👋
 
-<!--
-**ninavardo/ninavardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student currently studying **IT** at Georgian-American University.  
+🚀 Currently working on: a big project related to travel assistance.  
+🌍 Languages: Georgian 🇬🇪 | English | Russian  
+💻 Tech Stack: HTML, CSS, JavaScript, React, Python, and more.  
+🌱 Learning: React, Node.js, Python, Express  
+💡 Fun Fact: I love swimming and exploring new cultures! 🏊‍♀️✈️  
+📫 How to reach me: [ninavardo5@gmail.com](mailto:ninavardo5@gmail.com)  
+🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/nina-vardosanidze-57b500338)
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML](https://img.shields.io/badge/Code-HTML5-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/Code-CSS3-blue?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/Framework-React-61DAFB?style=flat&logo=react)
+![Python](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python)
